@@ -1,0 +1,1 @@
+![Calculator Layout design for learning linear layout in android studio](https://github.com/techtinkererfullstack/calculator-Layout-Design-Android/blob/main/calculator%20Layout%20design%20with%20xml%20Android%20studio.PNG)
